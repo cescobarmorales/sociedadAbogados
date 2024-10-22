@@ -101,7 +101,7 @@ body {
 
 /* ============ INICIO ESTILOS # HERO SECTION # ============*/
 .hero-section {
-    background-image: url('./img/hero.jpeg');
+    background-image: url('./img/hero_section/hero.jpeg');
     height: 75vh;
     width: 100%;
     background-size: cover;
